@@ -1,5 +1,5 @@
-# Privacy-Policy-Gold-Taggers
-The official Privacy Policy page for Gold Taggers
+# Privacy-Policy-Gold-Tagggers
+The official Privacy Policy page for Gold Tagggers
 # Privacy Policy
 
 **Effective Date:** July 27, 2025
@@ -55,5 +55,5 @@ If you have any questions, reach out at:
 
 ---
 
-**Game Name**: Gold Taggers  
+**Game Name**: Gold Tagggers  
 **Developer**: Gold Organization Tags
