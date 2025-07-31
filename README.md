@@ -1,5 +1,5 @@
-# Privacy-Policy-Gold-Tagggers
-The official Privacy Policy page for Gold Tagggers
+# Privacy-Policy-Gold-Tag
+The official Privacy Policy page for Gold Tag!
 # Privacy Policy
 
 **Effective Date:** July 27, 2025
