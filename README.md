@@ -1,5 +1,5 @@
-# Privacy-Policy-Gold-Tag
-The official Privacy Policy page for Gold Tag!
+# Privacy-Policy-Spectra-Tag
+The official Privacy Policy page for Spectra Tag!
 # Privacy Policy
 
 **Effective Date:** July 27, 2025
