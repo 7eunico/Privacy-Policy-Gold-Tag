@@ -1,4 +1,4 @@
-# Privacy-Policy-Spectra-Tag
+# Privacy-Policy-Spectra-Tag!
 The official Privacy Policy page for Spectra Tag!
 # Privacy Policy
 
